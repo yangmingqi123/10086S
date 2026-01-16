@@ -1,0 +1,18 @@
+{
+  "contributors" : [
+
+  ],
+  "version" : "1.0.0",
+  "intentInputTypes" : [
+
+  ],
+  "name" : "10086",
+  "description" : null,
+  "localizedDescriptions" : null,
+  "color" : "rgba(0, 213, 120, 1.00)",
+  "author" : null,
+  "remoteResource" : null,
+  "localizedNames" : null,
+  "icon" : "hare.fill",
+  "runInApp" : false
+}
