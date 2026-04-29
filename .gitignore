@@ -9,3 +9,5 @@ dist/
 build/
 .cache/
 *.tsbuildinfo
+
+.vscode/
