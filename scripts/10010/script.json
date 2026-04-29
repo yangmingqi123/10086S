@@ -1,0 +1,46 @@
+{
+  "runInApp" : false,
+  "intentInputTypes" : [
+
+  ],
+  "color" : "rgba(238, 92, 98,1)",
+  "icon" : "antenna.radiowaves.left.and.right",
+  "localizedNames" : {
+    "ru" : "",
+    "fr" : "",
+    "zh" : "",
+    "pt" : "",
+    "de" : "",
+    "en" : "",
+    "ja" : "",
+    "es" : "",
+    "it" : ""
+  },
+  "description" : "",
+  "name" : "10010",
+  "author" : {
+    "homepage" : null,
+    "name" : "DTZSGHNR",
+    "email" : "2753086015@qq.com"
+  },
+  "contributors" : [
+
+  ],
+  "remoteResource" : {
+    "url" : "https:\/\/sdl.dtzsghnr.cn\/d\/联通.zip",
+    "autoUpdateInterval" : 600,
+    "hash" : "238f29c4a6c136ae10efa7293fa146cf"
+  },
+  "localizedDescriptions" : {
+    "ja" : "",
+    "de" : "",
+    "en" : "",
+    "it" : "",
+    "zh" : "",
+    "pt" : "",
+    "ru" : "",
+    "es" : "",
+    "fr" : ""
+  },
+  "version" : "1.0.4"
+}

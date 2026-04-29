@@ -14,7 +14,7 @@ function MainView() {
   const setting = Storage.get<chinaMobileSettings>("chinaMobileSettings")
 
   const [cookie, setCookie] = useState(setting?.cookie || "")
-  const [refreshInterval, setRefreshInterval] = useState(setting?.refreshInterval || "10")
+  const [refreshInterval, setRefreshInterval] = useState(setting?.refreshIntervalm || "10")
 
   function saveConfig() {
     Storage.set("chinaMobileSettings", { cookie, refreshInterval })

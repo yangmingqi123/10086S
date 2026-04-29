@@ -1,6 +1,6 @@
 // widget.tsx
 import { VStack, HStack, Image, Text, Widget, fetch, WidgetReloadPolicy, ZStack, DynamicShapeStyle } from 'scripting'
-const CryptoJS = require("./crypto-js.min.js")
+import CryptoJS from "./crypto-js.min.js"
 
 
 type chinaMobileSettings = {
