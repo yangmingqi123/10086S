@@ -1,0 +1,11 @@
+# macOS system files
+.DS_Store
+
+# Node dependencies
+node_modules/
+
+# Build and cache outputs
+dist/
+build/
+.cache/
+*.tsbuildinfo
